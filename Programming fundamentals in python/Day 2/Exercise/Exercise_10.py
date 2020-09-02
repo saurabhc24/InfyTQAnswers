@@ -1,7 +1,7 @@
-/*
+"""
 Write a program to take the turtle to its destination - north, south, east or west based on the destination it wants to reach. 
 Refer the output screens provided for each destination.
-*/
+"""
 
 import turtle 
 wn = turtle.Screen()        # creates a graphics window
